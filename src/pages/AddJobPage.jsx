@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
+// Use react-auth toastgit add .
 import { toast } from 'react-toastify';
 
 const AddJobPage = ({ addJobSubmit }) => {
